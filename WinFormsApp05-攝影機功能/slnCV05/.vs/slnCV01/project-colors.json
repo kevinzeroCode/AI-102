@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3ae0c04d-6811-4dd4-8a4e-28b423a0ffc5": {
+      "ProjectGuid": "3ae0c04d-6811-4dd4-8a4e-28b423a0ffc5",
+      "DisplayName": "prjCV01",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "其他檔案",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

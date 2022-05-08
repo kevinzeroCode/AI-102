@@ -1,0 +1,31 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h3>全域課程聊天機器人服務咨詢</h3>
+    <form action="@Url.Action("Index")" method="post">
+        <p>問題：
+            <input type="text" required name="question" />
+        </p>
+        <p>
+            <input type="submit" value="我要發問" />
+        </p>
+        <hr />
+        <p>
+            @ViewBag.Question
+        </p>
+        <p>
+            @ViewBag.Answer
+        </p>
+    </form>
+</body>
+</html>

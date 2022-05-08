@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\李淑美\\Dropbox\\PC\\Desktop\\github\\AI-102\\prjFaceApi3 - 人臉詳細辨識\\slnFaceApi03\\prjFaceApi01\\prjFaceApi01.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\李淑美\\Dropbox\\PC\\Desktop\\github\\AI-102\\prjFaceApi3 - 人臉詳細辨識\\slnFaceApi03\\prjFaceApi01\\prjFaceApi01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\李淑美\\Dropbox\\PC\\Desktop\\github\\AI-102\\prjFaceApi3 - 人臉詳細辨識\\slnFaceApi03\\prjFaceApi01\\prjFaceApi01.csproj",
+        "projectName": "prjFaceApi01",
+        "projectPath": "C:\\Users\\李淑美\\Dropbox\\PC\\Desktop\\github\\AI-102\\prjFaceApi3 - 人臉詳細辨識\\slnFaceApi03\\prjFaceApi01\\prjFaceApi01.csproj",
+        "packagesPath": "C:\\Users\\李淑美\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\李淑美\\Dropbox\\PC\\Desktop\\github\\AI-102\\prjFaceApi3 - 人臉詳細辨識\\slnFaceApi03\\prjFaceApi01\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\李淑美\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "EmguCV": {
+              "target": "Package",
+              "version": "[3.1.0.1, )"
+            },
+            "Microsoft.Azure.CognitiveServices.Vision.Face": {
+              "target": "Package",
+              "version": "[2.7.0-preview.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjFaceApi01", "prjFaceApi01\prjFaceApi01.csproj", "{B12F7A8D-6F17-4D0E-BFC2-0890788957CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B12F7A8D-6F17-4D0E-BFC2-0890788957CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B12F7A8D-6F17-4D0E-BFC2-0890788957CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B12F7A8D-6F17-4D0E-BFC2-0890788957CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B12F7A8D-6F17-4D0E-BFC2-0890788957CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E3F747C-2AAB-42ED-AC01-6F41C4859711}
+	EndGlobalSection
+EndGlobal

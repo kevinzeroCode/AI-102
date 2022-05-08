@@ -1,0 +1,88 @@
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\bin\Debug\net6.0-windows\prjFaceApi01.exe
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\bin\Debug\net6.0-windows\prjFaceApi01.deps.json
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\bin\Debug\net6.0-windows\prjFaceApi01.runtimeconfig.json
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\bin\Debug\net6.0-windows\prjFaceApi01.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\bin\Debug\net6.0-windows\ref\prjFaceApi01.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\bin\Debug\net6.0-windows\prjFaceApi01.pdb
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\bin\Debug\net6.0-windows\Microsoft.Azure.CognitiveServices.Vision.Face.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.Form1.resources
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.csproj.GenerateResource.cache
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.AssemblyInfo.cs
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.csproj.CopyComplete
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\obj\Debug\net6.0-windows\ref\prjFaceApi01.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.pdb
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi01\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.genruntimeconfig.cache
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\bin\Debug\net6.0-windows\prjFaceApi01.exe
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\bin\Debug\net6.0-windows\prjFaceApi01.deps.json
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\bin\Debug\net6.0-windows\prjFaceApi01.runtimeconfig.json
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\bin\Debug\net6.0-windows\prjFaceApi01.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\bin\Debug\net6.0-windows\ref\prjFaceApi01.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\bin\Debug\net6.0-windows\prjFaceApi01.pdb
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\bin\Debug\net6.0-windows\Microsoft.Azure.CognitiveServices.Vision.Face.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.Form1.resources
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.csproj.GenerateResource.cache
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.AssemblyInfo.cs
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.csproj.CopyComplete
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\obj\Debug\net6.0-windows\ref\prjFaceApi01.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.pdb
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi02\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.genruntimeconfig.cache
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\bin\Debug\net6.0-windows\prjFaceApi01.exe
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\bin\Debug\net6.0-windows\prjFaceApi01.deps.json
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\bin\Debug\net6.0-windows\prjFaceApi01.runtimeconfig.json
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\bin\Debug\net6.0-windows\prjFaceApi01.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\bin\Debug\net6.0-windows\ref\prjFaceApi01.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\bin\Debug\net6.0-windows\prjFaceApi01.pdb
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\bin\Debug\net6.0-windows\Microsoft.Azure.CognitiveServices.Vision.Face.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.Form1.resources
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.csproj.GenerateResource.cache
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.AssemblyInfo.cs
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.csproj.CopyComplete
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\ref\prjFaceApi01.dll
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.pdb
+C:\Users\user\Desktop\.net core認知服務\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.genruntimeconfig.cache
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\bin\Debug\net6.0-windows\prjFaceApi01.exe
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\bin\Debug\net6.0-windows\prjFaceApi01.deps.json
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\bin\Debug\net6.0-windows\prjFaceApi01.runtimeconfig.json
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\bin\Debug\net6.0-windows\prjFaceApi01.dll
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\bin\Debug\net6.0-windows\prjFaceApi01.pdb
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\bin\Debug\net6.0-windows\Microsoft.Azure.CognitiveServices.Vision.Face.dll
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.dll
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.csproj.AssemblyReference.cache
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.Form1.resources
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.csproj.GenerateResource.cache
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.AssemblyInfoInputs.cache
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.AssemblyInfo.cs
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.csproj.CoreCompileInputs.cache
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.csproj.CopyComplete
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.dll
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\refint\prjFaceApi01.dll
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.pdb
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\prjFaceApi01.genruntimeconfig.cache
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\prjFaceApi3 - 配件表情\slnFaceApi03\prjFaceApi01\obj\Debug\net6.0-windows\ref\prjFaceApi01.dll

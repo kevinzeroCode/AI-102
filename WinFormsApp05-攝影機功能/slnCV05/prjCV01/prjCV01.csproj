@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EmguCV" Version="3.1.0.1" />
+    <PackageReference Include="Microsoft.Azure.CognitiveServices.Vision.ComputerVision" Version="7.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Emgu.CV.World">
+      <HintPath>bin\Debug\net6.0-windows\Emgu.CV.World.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

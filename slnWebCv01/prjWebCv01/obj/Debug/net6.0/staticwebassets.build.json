@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "anVrUQijb4F9gOusHUobB9m6U+jxJ5wsApqAKdKZ+r4=",
+  "Source": "prjWebCv01",
+  "BasePath": "_content/prjWebCv01",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "prjWebCv01\\wwwroot",
+      "Source": "prjWebCv01",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\.net core認知服務\\slnWebCv01\\prjWebCv01\\wwwroot\\",
+      "BasePath": "_content/prjWebCv01",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\.net core認知服務\\slnWebCv01\\prjWebCv01\\wwwroot\\Images\\andy02.jpg",
+      "SourceId": "prjWebCv01",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\.net core認知服務\\slnWebCv01\\prjWebCv01\\wwwroot\\",
+      "BasePath": "_content/prjWebCv01",
+      "RelativePath": "Images/andy02.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\andy02.jpg"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\bin\Debug\net6.0-windows\prjCV01.exe
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\bin\Debug\net6.0-windows\prjCV01.deps.json
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\bin\Debug\net6.0-windows\prjCV01.runtimeconfig.json
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\bin\Debug\net6.0-windows\prjCV01.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\bin\Debug\net6.0-windows\ref\prjCV01.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\bin\Debug\net6.0-windows\prjCV01.pdb
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\obj\Debug\net6.0-windows\prjCV01.Form1.resources
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.GenerateResource.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\obj\Debug\net6.0-windows\prjCV01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\obj\Debug\net6.0-windows\prjCV01.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\obj\Debug\net6.0-windows\prjCV01.AssemblyInfo.cs
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\obj\Debug\net6.0-windows\prjCV01.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\obj\Debug\net6.0-windows\ref\prjCV01.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\obj\Debug\net6.0-windows\prjCV01.pdb
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\obj\Debug\net6.0-windows\prjCV01.genruntimeconfig.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\bin\Debug\net6.0-windows\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV01\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.CopyComplete
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\bin\Debug\net6.0-windows\prjCV01.exe
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\bin\Debug\net6.0-windows\prjCV01.deps.json
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\bin\Debug\net6.0-windows\prjCV01.runtimeconfig.json
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\bin\Debug\net6.0-windows\prjCV01.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\bin\Debug\net6.0-windows\ref\prjCV01.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\bin\Debug\net6.0-windows\prjCV01.pdb
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\bin\Debug\net6.0-windows\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\obj\Debug\net6.0-windows\prjCV01.Form1.resources
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.GenerateResource.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\obj\Debug\net6.0-windows\prjCV01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\obj\Debug\net6.0-windows\prjCV01.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\obj\Debug\net6.0-windows\prjCV01.AssemblyInfo.cs
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.CopyComplete
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\obj\Debug\net6.0-windows\prjCV01.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\obj\Debug\net6.0-windows\ref\prjCV01.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\obj\Debug\net6.0-windows\prjCV01.pdb
+C:\Users\user\Desktop\.net core認知服務\slnCV02\prjCV01\obj\Debug\net6.0-windows\prjCV01.genruntimeconfig.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\bin\Debug\net6.0-windows\prjCV01.exe
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\bin\Debug\net6.0-windows\prjCV01.deps.json
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\bin\Debug\net6.0-windows\prjCV01.runtimeconfig.json
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\bin\Debug\net6.0-windows\prjCV01.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\bin\Debug\net6.0-windows\ref\prjCV01.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\bin\Debug\net6.0-windows\prjCV01.pdb
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\bin\Debug\net6.0-windows\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\obj\Debug\net6.0-windows\prjCV01.Form1.resources
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.GenerateResource.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\obj\Debug\net6.0-windows\prjCV01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\obj\Debug\net6.0-windows\prjCV01.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\obj\Debug\net6.0-windows\prjCV01.AssemblyInfo.cs
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.CopyComplete
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\obj\Debug\net6.0-windows\prjCV01.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\obj\Debug\net6.0-windows\ref\prjCV01.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\obj\Debug\net6.0-windows\prjCV01.pdb
+C:\Users\user\Desktop\.net core認知服務\slnCV03\prjCV01\obj\Debug\net6.0-windows\prjCV01.genruntimeconfig.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\bin\Debug\net6.0-windows\prjCV01.exe
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\bin\Debug\net6.0-windows\prjCV01.deps.json
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\bin\Debug\net6.0-windows\prjCV01.runtimeconfig.json
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\bin\Debug\net6.0-windows\prjCV01.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\bin\Debug\net6.0-windows\ref\prjCV01.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\bin\Debug\net6.0-windows\prjCV01.pdb
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\bin\Debug\net6.0-windows\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\obj\Debug\net6.0-windows\prjCV01.Form1.resources
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.GenerateResource.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\obj\Debug\net6.0-windows\prjCV01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\obj\Debug\net6.0-windows\prjCV01.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\obj\Debug\net6.0-windows\prjCV01.AssemblyInfo.cs
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.CopyComplete
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\obj\Debug\net6.0-windows\prjCV01.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\obj\Debug\net6.0-windows\ref\prjCV01.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\obj\Debug\net6.0-windows\prjCV01.pdb
+C:\Users\user\Desktop\.net core認知服務\slnCV04\prjCV01\obj\Debug\net6.0-windows\prjCV01.genruntimeconfig.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\bin\Debug\net6.0-windows\prjCV01.exe
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\bin\Debug\net6.0-windows\prjCV01.deps.json
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\bin\Debug\net6.0-windows\prjCV01.runtimeconfig.json
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\bin\Debug\net6.0-windows\prjCV01.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\bin\Debug\net6.0-windows\ref\prjCV01.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\bin\Debug\net6.0-windows\prjCV01.pdb
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\bin\Debug\net6.0-windows\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.Form1.resources
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.GenerateResource.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.AssemblyInfo.cs
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.CopyComplete
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\obj\Debug\net6.0-windows\ref\prjCV01.dll
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.pdb
+C:\Users\user\Desktop\.net core認知服務\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.genruntimeconfig.cache
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\bin\Debug\net6.0-windows\prjCV01.exe
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\bin\Debug\net6.0-windows\prjCV01.deps.json
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\bin\Debug\net6.0-windows\prjCV01.runtimeconfig.json
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\bin\Debug\net6.0-windows\prjCV01.dll
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\bin\Debug\net6.0-windows\prjCV01.pdb
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\bin\Debug\net6.0-windows\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.dll
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.AssemblyReference.cache
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.Form1.resources
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.GenerateResource.cache
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.AssemblyInfoInputs.cache
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.AssemblyInfo.cs
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.CoreCompileInputs.cache
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.csproj.CopyComplete
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.dll
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\obj\Debug\net6.0-windows\refint\prjCV01.dll
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.pdb
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\obj\Debug\net6.0-windows\prjCV01.genruntimeconfig.cache
+C:\Users\李淑美\Dropbox\PC\Desktop\github\AI-102\WinFormsApp05-攝影機功能\slnCV05\prjCV01\obj\Debug\net6.0-windows\ref\prjCV01.dll

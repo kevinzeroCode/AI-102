@@ -1,0 +1,26 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>電腦視覺分析Web版</title>
+</head>
+<body>
+
+    <form action="@Url.Action("Index")" method="post" enctype="multipart/form-data">
+        <p>請拍照上傳：</p>
+        <p><input type="file" name="formFile" /></p>
+        <p><input type="submit" value="檔案上傳" /></p>
+    </form>
+    <hr />
+    <p>
+        @Html.Raw(ViewBag.Show)
+    </p>
+
+</body>
+</html>
